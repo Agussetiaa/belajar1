@@ -11,7 +11,7 @@
 ```
 git --version
 ```
- ![Gambar1](Gambar/2.png)
+ ![Gambar1](Gambar/1.png)
  
 
  ## Menambahkan Global Config
