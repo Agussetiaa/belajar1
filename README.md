@@ -107,6 +107,7 @@ git --version
   - Isi nama repository nya, misal: Belajar1
   - Lalu klik tombol **create repository**
   ![Gambar](Gambar/7.png)
+  ![Gambar](Gambar/8.png)
   
   
   ## Menambahkan Remote Repository
@@ -123,7 +124,7 @@ git --version
   $ git push -u origin master
   ```
   - Perintah ini akan meminta memasukan username dan password pada akun github.com
-  ![Gambar](Gambar/8.png)
+  ![Gambar](Gambar/9.png)
   
   
   # Melihat Hasilnya Pada Server Repository
