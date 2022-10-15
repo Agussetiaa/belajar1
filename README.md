@@ -123,7 +123,7 @@ git --version
   $ git push -u origin master
   ```
   - Perintah ini akan meminta memasukan username dan password pada akun github.com
-  1[Gambar](Gambar/8.png)
+  ![Gambar](Gambar/8.png)
   
   
   # Melihat Hasilnya Pada Server Repository
