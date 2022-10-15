@@ -112,4 +112,5 @@ git --version
   - Remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga banyak diakses oleh banyak user.
   - Untuk menambahkan remote repository server, gunakan perintah **git remote add origin [url]**
   ```
-  $ git remote add origin 
+  $ git remote add origin https://github.com/Agussetiaa/belajar1
+  
