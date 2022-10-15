@@ -85,5 +85,14 @@ git --version
   ![Gambar](Gambar/3.png)
   
   
-  ## Commit (Menyimpan perubahan ke data base)
+  ## Commit (Menyimpan perubahan ke database)
+  - Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah **git commit -m "komentar commit"**
+  ```
+  $ git commit -m "file pertama saya"
+  ```
+  - Perubahan berhasil disimpan.
+  ![Gambar](Gambar/4.png)
+  
+  
+  ## Membuat repository server
   -
