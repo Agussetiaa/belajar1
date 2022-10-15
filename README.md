@@ -5,7 +5,7 @@
 
 ## Instalali Git
  - Buka wabsite resmi Git (https://git-scm.com/)
- - Kemudian unduh Git sesuai OS
+ - Kemudian unduh Git sesuai dengan arsitektur komputer kita, kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
  - Selamat, Git sudah terinstal di windows. untuk mencobanya silahkan buka **CMD** atau **powershell**, kemudian ketik perintah.
 ```
 git --version
@@ -131,4 +131,3 @@ git --version
   - Clone repository, pada dasarnya akan meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (*working direktory*)
   - Untuk melakukan cloning, gunakan perintah **git clone [url]**
  ![Gmabar](Gambar/11.png)
- 
