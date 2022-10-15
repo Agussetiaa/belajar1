@@ -2,7 +2,7 @@
 
 ## TUGAS BAHASA PEMROGRAMAN
 
-## Instalali Git
+## Instalasi Git
  - Buka wabsite resmi Git (https://git-scm.com/)
  - Kemudian unduh Git sesuai dengan arsitektur komputer kita, kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
  - Selamat, Git sudah terinstal di windows. untuk mencobanya silahkan buka **CMD** atau **powershell**, kemudian ketik perintah.
@@ -37,7 +37,7 @@ git --version
 
 
  ## Membuat Repository Local
- - Buka direktory aktif: **d:\labs_pemrograman1** (buka menggunakan Widows Explore)
+ - Buka direktory aktif: **d:\labs_pemrograman1** (buka menggunakan Windows Explore)
  - klik kanan pada direktory aktif tersebut, dan pilih menu **Git Bash**, sehingga muncul *git bash command*
  - Buat direktory project praktikum pertama dengan nama **latihan1**
   ```
@@ -61,7 +61,7 @@ git --version
  
   ## Menambahkan File Baru Pada Repository
   - Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktory aktif (repository)
-  - Disinni kita akan coba buat satu file bernama README.md (text file)
+  - Disini kita akan coba buat satu file bernama README.md (text file)
   ```
   $ echo "# latihan1 " >> README.md
   ```
