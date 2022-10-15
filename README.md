@@ -124,7 +124,7 @@ git --version
   ## Melihat Hasilnya Pada Server Repository
   - Buka laman github.com, arahkan pada repository nya
   - Maka perubahan akan terlihat pada laman tersebut.
-  [Gambar](Gambar/10.png)
+  ![Gambar](Gambar/10.png)
   
   
   ## Clone repository
