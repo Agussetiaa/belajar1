@@ -52,7 +52,7 @@ git --version
  
  
  ## Membuat Repository Local
- - Jalan **git init**, untuk mebuat repository local
+ - Jalankan perintah **git init**, untuk mebuat repository local
  ```
  $ git init
  ```
@@ -129,3 +129,4 @@ git --version
   
   ## Clone repository
   - Clone repository, pada dasarnya akan meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (*working direktory*)
+  - Untuk melakukan cloning, gunakan perintah **git clone [url]**
