@@ -40,7 +40,7 @@ git --version
  - **git pull**, perintah untuk mengambil/mendwonload perubahan terbaru dari server repositoy ke local repository
 
 
- ## Membuat Repository Lokal
+ ## Membuat Repository Local
 
  - Buka direktory aktif: **d:\labs_pemrograman1** (buka menggunakan Widows Explore)
  - klik kanan pada direktory aktif tersebut, dan pilih menu **Git Bash**, sehingga muncul *git bash command*
@@ -94,5 +94,14 @@ git --version
   ![Gambar](Gambar/4.png)
   
   
-  ## Membuat repository server
-  -
+  ## Membuat Repository Server
+  -Server repository yang akan digunakan adalah https://github.com
+  - Anda harus membuat akun terlebih dahulu.
+  - Pada laman github, klik tombol **sign up for GitHub**, atau
+  - Dari menu icon (+) klik new repository
+  ![Gambar](Gambar/5.png)
+  ![Gambar](Gambar/6.png)
+  
+  
+  ## Membuat Repository Server
+  = 
