@@ -71,3 +71,4 @@ git --version
   $ echo "# latihan1 " >> README.md
   ```
   - File **README.md** berhasil dibuat.
+  ![Gambar1](Gambar/2.png)
