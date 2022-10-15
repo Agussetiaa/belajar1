@@ -28,6 +28,7 @@ git --version
  $ git config --global user.email "nama_user"
  ```
 
+
  ## Perintah Dasar Git
 
  - **git init**, perintah untuk membuat repository local
@@ -53,6 +54,7 @@ git --version
  - Sehingga terbentuk satu direktory baru dibawahnya, selanjutnya masuk kedalam direktory tersebut dengan perintah **cd** (*change direktory*)
  - direktory aktif menjadi: **d:\lab_pemrograman1\latihan1**
  
+ 
  ## Membuat Repository Local
  
  - Jalan **git init**, untuk mebuat repository local
@@ -72,3 +74,16 @@ git --version
   ```
   - File **README.md** berhasil dibuat.
   ![Gambar1](Gambar/2.png)
+
+
+  ## Menambah File Repository
+  - Untuk menambah file baru saja dibuat tersebut gunakan perintah **git add**.
+  ```
+  $ git add README.md
+  ```
+  - file **README.md** berhasil ditambahkan.
+  ![Gambar](Gambar/3.png)
+  
+  
+  ## Commit (Menyimpan perubahan ke data base)
+  -
