@@ -130,3 +130,10 @@ git --version
   - Clone repository, pada dasarnya akan meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (*working direktory*)
   - Untuk melakukan cloning, gunakan perintah **git clone [url]**
  ![Gmabar](Gambar/11.png)
+
+
+  ## Kegunaan file README.md
+  - Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md
+  - Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
+  - Penulisa file README.md berbasis text, dan dan untuk pemformatannya menggunakan **markdwon** format.
+  - Untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdwon pada url berikut: https://guides.github.com/features/mastering-markdwon/
