@@ -130,3 +130,5 @@ git --version
   ## Clone repository
   - Clone repository, pada dasarnya akan meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (*working direktory*)
   - Untuk melakukan cloning, gunakan perintah **git clone [url]**
+ ![Gmabar](Gambar/11.png)
+ 
