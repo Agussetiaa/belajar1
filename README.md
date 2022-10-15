@@ -95,7 +95,7 @@ git --version
   
   
   ## Membuat Repository Server
-  -Server repository yang akan digunakan adalah https://github.com
+  - Server repository yang akan digunakan adalah https://github.com
   - Anda harus membuat akun terlebih dahulu.
   - Pada laman github, klik tombol **sign up for GitHub**, atau
   - Dari menu icon (+) klik new repository
@@ -104,7 +104,12 @@ git --version
   
   
   ## Membuat Repository Server
-  = Isi nama repository nya, misal: Belajar1
+  - Isi nama repository nya, misal: Belajar1
   - Lalu klik tombol **create repository**
   ![Gambar](Gambar/7.png)
   
+  ## Menambahkan Remote Repository
+  - Remote repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga banyak diakses oleh banyak user.
+  - Untuk menambahkan remote repository server, gunakan perintah **git remote add origin [url]**
+  ```
+  $ git remote add origin 
