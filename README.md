@@ -104,4 +104,7 @@ git --version
   
   
   ## Membuat Repository Server
-  = 
+  = Isi nama repository nya, misal: Belajar1
+  - Lalu klik tombol **create repository**
+  ![Gambar](Gambar/7.png)
+  
