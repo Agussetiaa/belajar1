@@ -1,4 +1,3 @@
-# latihan1 
 # LATIHAN VCS
 
 ## TUGAS BAHASA PEMROGRAMAN
